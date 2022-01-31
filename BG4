@@ -1,0 +1,3 @@
+pkg install git 
+git clone https://github.com/ALPHAMIKE156/bhaishab_bg4.git
+cd bhaishab_bg4
